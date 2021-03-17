@@ -19,15 +19,17 @@ Below there's a list of all the stacks I could find, **feel free to add more**!
     - [Python based](#python-based)
     - [Data analysis](#data-analysis)
     - [Other](#other)
+ - [Dictionary](#dictionary)
 
 
 ## Places to learn
-- (FreeCodeCamp)[https://freecodecamp.org/] (HTML,CSS, Javascript & Python)
-- (Laracasts)[https://laracasts.com/] (Laravel Framework)
+- [FreeCodeCamp](https://freecodecamp.org/) (HTML,CSS, Javascript & Python)
+- [Laracasts](https://laracasts.com/) (Laravel Framework)
 
 ## Tips
 
 - Use CTRL-F on your browser to search for an specific keyword/techonlogy.
+- Check [the dictionary](#dictionary) for more information about a specific technology.
 
 ## STACKS
 
@@ -247,3 +249,160 @@ Below there's a list of all the stacks I could find, **feel free to add more**!
 - XQuery
 - REST
 - XForms
+
+## Dictionary
+
+#### dot NET
+[.NET](https://dotnet.microsoft.com/) is a free, open source, [cross-platform](#cross-platform) framework for [C#](#c-sharp), **F#** and **Visual Basic** for desktop apps, mobile apps and web development.
+
+#### API
+Application Programming Interface. A way for two different technologies to communicate each other. Many times using Standard File Formats such as JSON or XML.
+
+#### ASP.NET
+An extension of [.NET](#dotnet) with tools and libraries specifically for building web apps.
+
+#### AlpineJS
+[AlpineJS](https://github.com/alpinejs/alpine/) is a minimal JavaScript framework that offers you the reactive and declarative nature of greater frameworks at a much lower cost.
+
+#### AngularJS
+[AngularJS](https://angularjs.org/) is a powerful, robust and extensible JavaScript framework to make Single Page Applications (SPAs) made by Google.
+
+#### Apache Akka
+
+#### Apache Cassandra
+
+#### Apache Kafka
+
+#### Apache Mesos
+
+#### Apache Spark
+
+#### Apollo
+
+#### AppScale
+
+#### C
+
+#### C-Sharp
+
+#### CouchDB
+
+#### Cross-Platform
+
+#### DRBD
+
+#### ElasticSearch
+
+#### Elixir
+
+#### Erlang
+
+#### Eucalyptus
+
+#### ExpressJS
+
+#### Ganeti
+
+#### GemStone
+
+#### GraphQL
+
+#### Internet Information Services
+
+#### Javascript
+
+#### Kibana
+
+#### Kubernetes
+
+#### Laravel
+
+#### Lighttpd
+
+#### Linkerd
+
+#### Linux
+
+#### Livewire
+
+#### LogStash
+
+#### MS SQL
+
+#### Mac OS
+
+#### MariaDB
+
+#### Markup
+
+#### Mnesia
+
+#### MongoDB
+
+#### MySQL
+
+#### NATS
+
+#### NaviServer
+
+#### Neo4j
+
+#### Ngnix
+
+#### NodeJS
+
+#### OpenACS
+
+#### OpenBSD
+
+#### OpenFaaS
+
+#### PHP
+
+#### Perl
+
+#### Phoenix
+
+#### PostgreSQL
+
+#### Prometheus
+
+#### Python
+
+#### REST
+
+#### RabbitMQ
+
+#### ReactJS
+
+#### Riak
+
+#### SQLite
+
+#### Seaside
+
+#### SmallTalk
+
+#### Tailwind CSS
+
+#### Tcl
+
+#### TerminusDB
+
+#### Typescript
+
+#### VueJS
+
+#### Windows
+
+#### Windows Server
+
+#### Wordpress
+
+#### XForms
+
+#### Xen
+
+#### Yaws
+
+#### httpd
