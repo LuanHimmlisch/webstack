@@ -29,7 +29,7 @@ Below there's a list of all the stacks I could find, **feel free to add more**!
 
 Some of the best places to learn (free and paid).
 
-[<img src="https://raw.githubusercontent.com/freeCodeCamp/freeCodeCamp/main/client/src/assets/images/square_puck.png" title="FreeCodeCamp (HTML,CSS,Js)" height="50">](freecodecamp.org/)&nbsp;
+[<img src="https://raw.githubusercontent.com/freeCodeCamp/freeCodeCamp/main/client/src/assets/images/square_puck.png" title="FreeCodeCamp (HTML,CSS,Js)" height="50">](https://freecodecamp.org/)&nbsp;
 [<img src="https://i.imgur.com/WftCljd.png" title="Laracast (Laravel)" height="50">](https://laravel.com/)&nbsp;
 
 -------
