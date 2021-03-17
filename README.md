@@ -1,6 +1,6 @@
 # Web Development Stacks
 
-A web development stack is a popular collection of predefined technologies choosen by developers based on practicality, innovation or enjoyment. Or as wikipedia puts it:
+A web development stack is a popular collection of **predefined technologies** choosen by developers based on practicality, innovation or enjoyment. Or as wikipedia puts it:
 
 > "In computing, a solution stack or software stack is a set of software subsystems or components needed to create a complete platform such that no additional software is needed to support applications. Applications are said to "run on" or "run on top of" the resulting platform."
 
@@ -8,7 +8,9 @@ If you're new to programming starting to learn a specific stack is great as many
 
 Below there's a list of all the stacks I could find, **feel free to add more**!
 
-## Table of contents
+-------
+
+# Table of contents
 
  - [Places to learn](#places-to-learn)
  - [Tips](#tips)
@@ -21,141 +23,153 @@ Below there's a list of all the stacks I could find, **feel free to add more**!
     - [Other](#other)
  - [Dictionary](#dictionary)
 
+-------
 
-## Places to learn
-- [FreeCodeCamp](https://freecodecamp.org/) (HTML,CSS, Javascript & Python)
-- [Laracasts](https://laracasts.com/) (Laravel Framework)
+# Places to learn
 
-## Tips
+Some of the best places to learn (free and paid).
+
+[<img src="https://raw.githubusercontent.com/freeCodeCamp/freeCodeCamp/main/client/src/assets/images/square_puck.png" title="FreeCodeCamp (HTML,CSS,Js)" height="50">](freecodecamp.org/)&nbsp;
+[<img src="https://i.imgur.com/WftCljd.png" title="Laracast (Laravel)" height="50">](https://laravel.com/)&nbsp;
+
+-------
+
+# Tips
 
 - Use CTRL-F on your browser to search for an specific keyword/techonlogy.
 - Check [the dictionary](#dictionary) for more information about a specific technology.
 
-## STACKS
+-------
 
-### C based
+# STACKS
 
-#### .NET
+## C based
+
+### .NET
 - C#
 - .NET Core
 - Angular
 - MS SQL
 
-#### BHCS
+### BHCS
 - OpenBSD
 - C
 - httpd
 - SQLite
 
-### PHP based
+-------
 
-#### LAMP
+## PHP based
+
+### LAMP
 - Linux
 - Apache
 - MySQL
 - PHP/Perl/Python
 
-#### LAPP
+### LAPP
 - Linux (operating system)
 - Apache (web server)
 - PostgreSQL 
 - PHP/Perl/Python
 
-#### LEMP/LNMP
+### LEMP/LNMP
 - Linux
 - Nginx
 - MySQL/MariaDB
 - PHP/Perl/Python
 
-#### LLMP
+### LLMP
 - Linux
 - Lightttpd
 - MySQL/MariaDB
 - PHP/Perl/Python
 
-#### MAMP
+### MAMP
 - Mac OS
 - Apache
 - MySQL/MariaDB
 - PhHP/Perl/Python
 
-#### NPM
+### NPM
 - Ngnix
 - MySQL
 - PHP
 
-#### TALL
+### TALL
 - Tailwind CSS
 - Alpine
 - Livewire
 - Laravel
 
-#### WAMP
+### WAMP
 - Windows
 - Apache
 - MySQL/MariaDB
 - PHP/Perl/Python
 
-#### WIMP
+### WIMP
 - Windows
 - Internet Information Services
 - MySQL/MariaDB
 - PHP/Perl/Python
 
-#### WINS
+### WINS
 - Windows Server
 - Internet Information Services
 - .NET
 - (Microsoft) SQL Server
 
-#### WISA
+### WISA
 - Windows Sever
 - Internet Information Services
 - (Microsoft) SQL Server
 - ASP.NET
 
-#### XAMPP
+### XAMPP
 - Cross-platform
 - Apache
 - PHP
 - Perl
 
-#### BAD Stack
+### BAD Stack
 - Wordpress
 
-### Javascript based
+-------
 
-#### GRAND
+## Javascript based
+
+### GRAND
 - GraphQL
 - React
 - Apollo
 - Neo4j
 
-#### Hypebeast
+### Hypebeast
 - React
 - Typescript
 - Node
 - PostgreSQL
 
-#### MEAN
+### MEAN
 - MongoDB
 - Express
 - Angular
 - Node
 
-#### MERN
+### MERN
 - MongoDB
 - Express
 - React
 - Node
 
-#### MEVN
+### MEVN
 - MongoDB
 - Express
 - Vue
 - Node
 
-#### Refined Hypebeast
+### Refined Hypebeast
 - React
 - Typescript
 - Node
@@ -163,246 +177,256 @@ Below there's a list of all the stacks I could find, **feel free to add more**!
 - Elixir
 - RabbitMQ
 
-#### T-REx
+### T-REx
 - TerminusDB
 - React
 - Express
 
-### Python based
+-------
 
-#### LEAP
+## Python based
+
+### LEAP
 - Linux
 - Eucalyptus
 - AppScale
 - Python
 
-### Data analysis
+-------
 
-#### ELK
+## Data analysis
+
+### ELK
 - ElasticSearch
 - LogStash
 - Kibana
 
-### Other
+-------
 
-#### JAM
+## Other
+
+### JAM
 - JavaScript
 - APIs
 - Markup
 
-#### GLASS
+### GLASS
 - GemStone
 - Linux
 - Apache
 - Smalltalk
 - Seaside
 
-#### Ganeti
+### Ganeti
 - Xen
 - Linux
 - DRBD
 - Ganeti
 - Ganeti Web Manager
 
-#### LYME/LYCE
+### LYME/LYCE
 - Linux
 - Yaws
 - Mnesia/CouchDB
 - Erlang
 
-#### MARKS
+### MARKS
 - Mesos
 - Akka
 - Riak
 - Kafka
 - Spark
 
-#### OpenACS
+### OpenACS
 - Linux/Windows
 - NaviServer
 - OpenACS
 - PostgreSQL/OracleDB
 - Tcl
 
-#### PLONK
+### PLONK
 - Prometheus
 - Linkerd
 - OpenFaaS
 - NATS
 - Kubernetes
 
-#### SMACK
+### SMACK
 - Spark
 - Mesos
 - Akka
 - Cassandra
 - Kafka
 
-#### TAPE
+### TAPE
 - Tailwind CSS
 - Alpine
 - Phoenix
 - Elixir
 
-#### XRX
+### XRX
 - XML Database
 - XQuery
 - REST
 - XForms
 
-## Dictionary
+-------
 
-#### dot NET
+# Dictionary
+
+### dot NET
 [.NET](https://dotnet.microsoft.com/) is a free, open source, [cross-platform](#cross-platform) framework for [C#](#c-sharp), **F#** and **Visual Basic** for desktop apps, mobile apps and web development.
 
-#### API
+### API
 Application Programming Interface. A way for two different technologies to communicate each other. Many times using Standard File Formats such as JSON or XML.
 
-#### ASP.NET
+### ASP.NET
 An extension of [.NET](#dotnet) with tools and libraries specifically for building web apps.
 
-#### AlpineJS
+### AlpineJS
 [AlpineJS](https://github.com/alpinejs/alpine/) is a minimal JavaScript framework that offers you the reactive and declarative nature of greater frameworks at a much lower cost.
 
-#### AngularJS
+### AngularJS
 [AngularJS](https://angularjs.org/) is a powerful, robust and extensible JavaScript framework to make Single Page Applications (SPAs) made by Google.
 
-#### Apache Akka
+### Apache Akka
 
-#### Apache Cassandra
+### Apache Cassandra
 
-#### Apache Kafka
+### Apache Kafka
 
-#### Apache Mesos
+### Apache Mesos
 
-#### Apache Spark
+### Apache Spark
 
-#### Apollo
+### Apollo
 
-#### AppScale
+### AppScale
 
-#### C
+### C
 
-#### C-Sharp
+### C-Sharp
 
-#### CouchDB
+### CouchDB
 
-#### Cross-Platform
+### Cross-Platform
 
-#### DRBD
+### DRBD
 
-#### ElasticSearch
+### ElasticSearch
 
-#### Elixir
+### Elixir
 
-#### Erlang
+### Erlang
 
-#### Eucalyptus
+### Eucalyptus
 
-#### ExpressJS
+### ExpressJS
 
-#### Ganeti
+### Ganeti
 
-#### GemStone
+### GemStone
 
-#### GraphQL
+### GraphQL
 
-#### Internet Information Services
+### Internet Information Services
 
-#### Javascript
+### Javascript
 
-#### Kibana
+### Kibana
 
-#### Kubernetes
+### Kubernetes
 
-#### Laravel
+### Laravel
 
-#### Lighttpd
+### Lighttpd
 
-#### Linkerd
+### Linkerd
 
-#### Linux
+### Linux
 
-#### Livewire
+### Livewire
 
-#### LogStash
+### LogStash
 
-#### MS SQL
+### MS SQL
 
-#### Mac OS
+### Mac OS
 
-#### MariaDB
+### MariaDB
 
-#### Markup
+### Markup
 
-#### Mnesia
+### Mnesia
 
-#### MongoDB
+### MongoDB
 
-#### MySQL
+### MySQL
 
-#### NATS
+### NATS
 
-#### NaviServer
+### NaviServer
 
-#### Neo4j
+### Neo4j
 
-#### Ngnix
+### Ngnix
 
-#### NodeJS
+### NodeJS
 
-#### OpenACS
+### OpenACS
 
-#### OpenBSD
+### OpenBSD
 
-#### OpenFaaS
+### OpenFaaS
 
-#### PHP
+### PHP
 
-#### Perl
+### Perl
 
-#### Phoenix
+### Phoenix
 
-#### PostgreSQL
+### PostgreSQL
 
-#### Prometheus
+### Prometheus
 
-#### Python
+### Python
 
-#### REST
+### REST
 
-#### RabbitMQ
+### RabbitMQ
 
-#### ReactJS
+### ReactJS
 
-#### Riak
+### Riak
 
-#### SQLite
+### SQLite
 
-#### Seaside
+### Seaside
 
-#### SmallTalk
+### SmallTalk
 
-#### Tailwind CSS
+### Tailwind CSS
 
-#### Tcl
+### Tcl
 
-#### TerminusDB
+### TerminusDB
 
-#### Typescript
+### Typescript
 
-#### VueJS
+### VueJS
 
-#### Windows
+### Windows
 
-#### Windows Server
+### Windows Server
 
-#### Wordpress
+### Wordpress
 
-#### XForms
+### XForms
 
-#### Xen
+### Xen
 
-#### Yaws
+### Yaws
 
-#### httpd
+### httpd
+
+-------
