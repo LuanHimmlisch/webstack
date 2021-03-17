@@ -1,12 +1,12 @@
 # Web Development Stacks
 
-A web development stack is a popular collection of **predefined technologies** choosen by developers based on practicality, innovation or enjoyment. Or as wikipedia puts it:
+A web development stack is a popular collection of **predefined technologies** chosen by developers based on practicality, innovation or enjoyment. Or as wikipedia puts it:
 
 > "In computing, a solution stack or software stack is a set of software subsystems or components needed to create a complete platform such that no additional software is needed to support applications. Applications are said to "run on" or "run on top of" the resulting platform."
 
-If you're new to programming starting to learn a specific stack is great as many people with the exactly same stack could help you. But sometimes we can't choose or even find these stacks with ease.
+If you're new to programming start learning a specific stack is a great idea as many people with the exactly same stack could help you. But sometimes we can't choose or even find these stacks with ease.
 
-Below there's a list of all the stacks I could find, **feel free to add more**!
+Below there's a list of all the stacks I could find, **feel free to add more!**
 
 -------
 
